@@ -17,3 +17,4 @@ The Variables:
 
 1. "Activity" gives the type of activity the data is collected on, such as walking, running, laying etc.
 2. "Subject" is a range 1-30 indicating the subject the data is collected from.
+3. The column names on the top is the variable "measurements" which can be undestood as different outputs recorded the fitness device.
